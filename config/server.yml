@@ -1,0 +1,3 @@
+base-url: "https://your.base.url"
+cache-file: "/etc/ntfy/cache.db"
+attachment-cache-dir: "/etc/ntfy/attachments"
